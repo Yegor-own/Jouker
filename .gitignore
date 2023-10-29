@@ -1,1 +1,4 @@
 venvwin
+docker-compose.yml
+.idea
+env.py
